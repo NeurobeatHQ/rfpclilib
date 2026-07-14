@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map for rfpclilib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RfpCli	KEYWORD1
+RfpCliConfig	KEYWORD1
+HexImage	KEYWORD1
+HexBlock	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+programArduinoBootloader	KEYWORD2
+loadHexFromFatFs	KEYWORD2
+dumpHexImage	KEYWORD2
+downloadDfuToFatFs	KEYWORD2
+totalBytes	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
