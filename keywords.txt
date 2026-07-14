@@ -6,21 +6,21 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-RfpCli	KEYWORD1
-RfpCliConfig	KEYWORD1
-HexImage	KEYWORD1
-HexBlock	KEYWORD1
+SerialInterface	KEYWORD1
+RfpLog	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
 programArduinoBootloader	KEYWORD2
-loadHexFromFatFs	KEYWORD2
-dumpHexImage	KEYWORD2
-downloadDfuToFatFs	KEYWORD2
-totalBytes	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+setBaud	KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
 #######################################
+
+Debug	LITERAL1
+Error	LITERAL1
