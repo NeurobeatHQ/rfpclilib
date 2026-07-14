@@ -1,0 +1,6 @@
+# ESP-IDF Component Manager manifest. Lets this library be referenced as a
+# managed dependency (by git URL + version, or a local path) and, if desired,
+# published to the ESP Component Registry. The Arduino build ignores this file.
+version: "0.2.0"
+description: "Program the Renesas RA4M1 Arduino bootloader over UART via the RFP/SCI serial boot protocol. Framework-neutral C++ (Arduino + ESP-IDF)."
+url: "https://github.com/NeurobeatHQ/rfpclilib"
